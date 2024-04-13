@@ -1,4 +1,4 @@
-### 👋 Hello World!
+### 👋 Hello World! I'm Ayoub Ennabili
 
 <!--
 **Kayzenn4/Kayzenn4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Ayoub Ennabili</h1>
-<h3 align="center">I'm a software engineer focusing on full-stack web development. I enjoy working on innovative projects and collaborating in team environments. My profile's Languages and Tools section lists the technologies I'm proficient in. I've applied and mastered these tools through diverse project work. With three years of experience in software engineering and full-stack development, I'm eager to use my knowledge in a new job role or contribute to open-source communities. Feel free to check my tech stack experience and reach out for collaboration or feedback!</h3>
+I'm a software engineer focusing on full-stack web development. I enjoy working on innovative projects and collaborating in team environments. My profile's Languages and Tools section lists the technologies I'm proficient in. I've applied and mastered these tools through diverse project work. With three years of experience in software engineering and full-stack development, I'm eager to use my knowledge in a new job role or contribute to open-source communities. Feel free to check my tech stack experience and reach out for collaboration or feedback!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayzenn4&label=Profile%20views&color=0e75b6&style=flat" alt="kayzenn4" /> </p>
 
