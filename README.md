@@ -24,7 +24,7 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 <h3 align="left">Connect with me:</h3>
 <p align="left">📧yennabilialt@gmail.com</p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools ##
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -69,6 +69,5 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 
 
 ## GitHub stats ##
-
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayzenn4&theme=radical" alt="kayzenn4" /></p>
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayzenn4&show_icons=true&locale=en&layout=compact&theme=radical" alt="kayzenn4" /></p> -->
