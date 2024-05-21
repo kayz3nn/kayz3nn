@@ -67,5 +67,5 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 
 
 ## GitHub stats ##
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayzenn4&theme=radical" alt="kayzenn4" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayzenn4&theme=gruvbox-duo" alt="kayzenn4" /></p>
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayzenn4&show_icons=true&locale=en&layout=compact&theme=radical" alt="kayzenn4" /></p> -->
