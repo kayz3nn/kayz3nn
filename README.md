@@ -9,6 +9,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
 I'm a software engineer focusing on full-stack web development. I enjoy working on innovative projects and collaborating in team environments. My profile's Languages and Tools section lists the technologies I'm proficient in. I've applied and mastered these tools through diverse project work. With three years of experience in software engineering and full-stack development, I'm eager to use my knowledge in a new job role or contribute to open-source communities. Feel free to check my tech stack experience and reach out for collaboration or feedback!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayzenn4&label=Profile%20views&color=0e75b6&style=flat" alt="kayzenn4" /> </p>
