@@ -15,10 +15,11 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayzenn4&label=Profile%20views&color=0e75b6&style=flat" alt="kayzenn4" /> </p>
 <!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayzenn4" alt="kayzenn4" /></a>
  </p> -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">📧yennabilialt@gmail.com</p>
 
-## Languages and Tools ##
+## Languages and Tools <img src="https://github.com/user-attachments/assets/b0048aeb-596f-4414-ac02-2d1e7d732daa" alt=" " width="30" height="30" />
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
