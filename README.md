@@ -12,7 +12,7 @@
 
 I'm a software engineer focusing on full-stack web development. I enjoy working on innovative projects and collaborating in team environments. My profile's Languages and Tools section lists the technologies I'm proficient in. I've applied and mastered these tools through diverse project work. With three years of experience in software engineering and full-stack development, I'm eager to use my knowledge in a new job role or contribute to open-source communities. Feel free to check my tech stack experience and reach out for collaboration or feedback!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayzenn4&label=Profile%20views&color=0e75b6&style=flat" alt="kayzenn4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkai43&label=Profile%20views&color=0e75b6&style=flat" alt="kayzenn4" /> </p>
 <!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayzenn4" alt="kayzenn4" /></a>
  </p> -->
 <h3 align="left"> Connect with me:</h3>
