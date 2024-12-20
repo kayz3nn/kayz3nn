@@ -65,5 +65,8 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 
 ## GitHub stats <img src="./assets/Chart Decreasing.webp" alt=" " width=20 />
 
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkai43&theme=travelers-theme" alt="GitHub Stats" /></p>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkai43&show_icons=true&locale=en&layout=compact&theme=radical" alt="devkai43" /></p> -->
+<p align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkai43&theme=travelers-theme" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkai43&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
