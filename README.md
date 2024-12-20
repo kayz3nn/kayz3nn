@@ -1,16 +1,16 @@
-### ✨Hello World! <img src="./assets/Waving Hand.webp" width=20 alt=" "/>
+### ✨Hello World! <img src="./assets/Waving Hand.webp" width=20 alt="."/>
 
 I'm a software engineer focusing on full-stack web development. I enjoy working on innovative projects and collaborating in team environments. My profile's Languages and Tools section lists the technologies I'm proficient in. I've applied and mastered these tools through diverse project work. With three years of experience in software engineering and full-stack development, I'm eager to use my knowledge in a new job role or contribute to open-source communities. Feel free to check my tech stack experience and reach out for collaboration or feedback!
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=devkai43&label=Profile%20views&color=0e75b6&style=flat" alt="kayzenn4"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=devkai43&label=Profile%20views&color=0e75b6&style=flat" alt="."/></p>
 
-<img src="./assets/linear_flashing_line.gif" alt=" " />
+<img src="./assets/linear_flashing_line.gif" alt="." />
 
-### 📫Connect with me <img src="./assets/Incoming Envelope.webp" width=25 alt=" "/> </p>
+### 📫Connect with me <img src="./assets/Incoming Envelope.webp" width=25 alt="."/> </p>
 
 📧 yennabilialt@gmail.com
 
-## ⚒️Languages and Tools <img src="./assets/terminal_gear.gif" alt=" " width="30" height="30" />
+## ⚒️Languages and Tools <img src="./assets/terminal_gear.gif" alt="." width="30" height="30" />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
@@ -65,5 +65,5 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 
 ## GitHub stats <img src="./assets/Chart Decreasing.webp" alt=" " width=20 />
 
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkai43&theme=travelers-theme" alt="devkai43" /></p>
+<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkai43&theme=travelers-theme" alt="GitHub Stats" /></p>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkai43&show_icons=true&locale=en&layout=compact&theme=radical" alt="devkai43" /></p> -->
