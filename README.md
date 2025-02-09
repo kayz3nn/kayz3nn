@@ -31,7 +31,7 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=spring)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![REST_API](https://img.shields.io/badge/-REST_API-black?style=flat-square&logo=rest)
@@ -50,8 +50,9 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub_Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-web-services)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud)
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-black?style=flat-square&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
@@ -66,12 +67,14 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Adobe Photoshop CS6](https://img.shields.io/badge/-Adobe_Photoshop_CS6-black?style=flat-square&logo=adobe-photoshop)
+![JustInMind](https://img.shields.io/badge/-JustInMind-black?style=flat-square&logo=justinmind)
 
 ### Testing
 
 ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=pytest)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit)
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
 
 ### Languages
@@ -95,6 +98,12 @@ I'm a software engineer focusing on full-stack web development. I enjoy working 
 ### Mobile
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+
+### Project Management
+
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
 
 ## GitHub stats <img src="./assets/Chart Decreasing.webp" alt=" " width=20 />
 
