@@ -2,13 +2,13 @@
 
 I'm a software engineer proficient in full-stack web development, automation, tools building, and data science. I've applied and mastered various technologies through diverse project work. I love to learn new things and contribute to projects in a collaborative environment. Feel free to check my tech stack experience and reach out for collaboration or feedback!
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=devkai43&label=Profile%20views&color=0e75b6&style=flat" alt="."/></p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=devkai43&label=Profile%20views&color=0e75b6&style=flat" alt="."/></p> 
 
-<img src="./assets/linear_flashing_line.gif" alt="." />
+<!--<img src="./assets/linear_flashing_line.gif" alt="." />-->
 
 - 🌱 I’m currently learning **Rust, Machine learning, Deep learning**
 - 💬 Ask me about **Web Development, Web security, ML, and DL**
-- 📫Connect with me at <img src="./assets/Incoming Envelope.webp" width=25 alt="."/> yennabilialt@gmail.com
+- 📫Connect with me <img src="./assets/Incoming Envelope.webp" width=25 alt="."/> yennabilialt@gmail.com
 
 ## ⚒️Languages and Tools <img src="./assets/terminal_gear.gif" alt="." width="30" height="30" />
 
