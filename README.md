@@ -30,7 +30,10 @@ I'm a software engineer proficient in full-stack web development, automation, to
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![REST_API](https://img.shields.io/badge/-REST_API-black?style=flat-square&logo=rest)
-![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=websockets)<!-- Backend -->
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=websockets)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=beautifulsoup)<!-- Backend -->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
